@@ -19,4 +19,5 @@ Accumulated knowledge and skills
 - Python for data engineering
 - AWS
 - ETL processes
+- Implementing crawler , Role and access s3
 
